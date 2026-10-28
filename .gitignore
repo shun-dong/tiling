@@ -1,0 +1,11 @@
+# Lake dependencies and build output
+.lake/
+
+# Lean artifacts emitted beside source files
+*.olean
+*.ilean
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
