@@ -1,3 +1,7 @@
-这里的曲面采用的是组合的方法拼出来的, 因为嵌入的方法定义会更复杂     
+Lean formalization of the main theorem in [Incidence Geometry with Polarity and Tiled Surfaces](https://arxiv.org/abs/2611.16862).
 
-lean 版本 leanprover/lean4:v4.23.0-rc2
+Surfaces are constructed by combinatorial gluing.
+
+## Toolchain
+
+`leanprover/lean4:v4.23.0-rc2`
